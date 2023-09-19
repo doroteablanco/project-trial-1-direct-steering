@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "Grove": "github:seeed-studio/pxt-grove#v0.5.0"
+        "Grove": "github:seeed-studio/pxt-grove#v0.5.0",
+        "datalogger": "*"
     },
     "files": [
         "main.blocks",
